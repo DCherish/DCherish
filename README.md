@@ -6,11 +6,11 @@
 
 </div>
 
-<h2 align="center">
+<h4 align="center">
 
 언제나 기본에 충실하게 공부하며, 실력있는 iOS Developer가 되기 위해 노력하고 있습니다.  
 
-</h2>
+</h4>
 
 <div align="center">
 
