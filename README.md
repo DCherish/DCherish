@@ -48,8 +48,6 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dcherish)](https://solved.ac/dcherish)  
 <a href="https://github.com/DCherish/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DCherish&count_private=true&show_icons=true&theme=gotham" />
-</a>
-<a href="https://github.com/DCherish/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCherish&hide=c%23,cmake,c&layout=compact" />
 </a>
 
