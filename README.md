@@ -55,6 +55,10 @@
 <h3 align="center">
 
 Not a Talent ❎ Not Giving Up ✅  
-Just Keep Going 🤙
+Just Keep Going 🤙  
+
+<br>
+
+Good Vibes Only ⭕️ Bad Vibes Lonely ❌
 
 </h3>
