@@ -47,10 +47,10 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dcherish)](https://solved.ac/dcherish)  
 <a href="https://github.com/DCherish/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DCherish&count_private=true&show_icons=true&theme=gotham" width=52.0% />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DCherish&count_private=true&show_icons=true&theme=gotham" width=54.0% />
 </a>
 <a href="https://github.com/DCherish/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCherish&hide=c%23,cmake,c&layout=compact&theme=gotham" width=47.0% />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCherish&hide=c%23,cmake,c&layout=compact&theme=gotham" width=45.0% />
 </a>
 
 <br>
