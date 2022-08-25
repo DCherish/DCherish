@@ -46,7 +46,7 @@
 <br>
 
 <a href="https://solved.ac/DCherish">
-  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=DCherish" width=49.5% />
+  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=DCherish" width=49.5% />  
 </a>
 
 <br/>
