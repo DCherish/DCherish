@@ -44,12 +44,13 @@
 
 </div>
 
-<h4 align="center">
+<h3 align="center">
 
-Not a Talent ❎ Not Giving UP ✅  
+Not a Talent ❎ Not Giving Up ✅  
 
+<br>
 <br>
 
 Just Keep Going 🤙
 
-</h4>
+</h3>
