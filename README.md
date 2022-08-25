@@ -4,8 +4,16 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdcherish&count_bg=%23979797&title_bg=%23595858&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
-<br>
+</div>
 
-Not a Talent, Not Giving Up
+<h3 align="center">
+
+언제나 기본에 충실하게 공부하며, 실력있는 iOS Developer가 되기 위해 노력하고 있습니다.  
+
+</h3>
+
+<div align="center">
+
+Not a Talent ❎ Not Giving UP ✅  
 
 </div>
