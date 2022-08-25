@@ -52,7 +52,7 @@
 
 </div>
 
-<h4 align="center">
+<h3 align="center">
 
 Not a Talent ❎ Not Giving Up ✅  
 
@@ -60,4 +60,4 @@ Not a Talent ❎ Not Giving Up ✅
 
 Just Keep Going 🤙
 
-</h4>
+</h3>
