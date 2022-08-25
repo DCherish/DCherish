@@ -34,14 +34,12 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dcherish)](https://solved.ac/dcherish)  
-
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dcherish)](https://solved.ac/dcherish)
 <a href="https://github.com/DCherish/github-stats-transparent">
-
-<img src="https://raw.githubusercontent.com/DCherish/github-stats-transparent/output/generated/overview.svg" width=49.2% />
 <img src="https://raw.githubusercontent.com/DCherish/github-stats-transparent/output/generated/languages.svg" width=49.2% />
-
 </a>
 
 <br>
