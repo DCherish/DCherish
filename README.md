@@ -4,10 +4,10 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdcherish&count_bg=%23979797&title_bg=%23595858&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
-</div>
-
+<br>
 <br>
 
+<div >
 <img src="https://img.shields.io/badge/iOS-000000?&style=for-the-badge&logo=ios&logoColor=white" />
 <img src="https://img.shields.io/badge/swift-F05138?&style=for-the-badge&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/xcode-147EFB?&style=for-the-badge&logo=xcode&logoColor=white" />
@@ -24,6 +24,8 @@
 <img src="https://img.shields.io/badge/pycharm-000000?&style=for-the-badge&logo=pycharm&logoColor=white" />
 <img src="https://img.shields.io/badge/tensorflow-FF6F00?&style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/jupyter%20notebook-F37626?&style=for-the-badge&logo=jupyter&logoColor=white" />
+
+</div>
 
 <h4 align="center">
 
