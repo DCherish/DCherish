@@ -55,9 +55,6 @@
 <h3 align="center">
 
 Not a Talent ❎ Not Giving Up ✅  
-
-<br>
-
 Just Keep Going 🤙
 
 </h3>
