@@ -9,7 +9,7 @@
 <br>
 <br>
 
-<img src="https://img.shields.io/badge/iOS-000000?&style=for-the-badge&logo=ios&logoColor=white" />
+<img src="https://img.shields.io/badge/iOS-484848?&style=for-the-badge&logo=ios&logoColor=white" />
 <img src="https://img.shields.io/badge/swift-F05138?&style=for-the-badge&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/xcode-147EFB?&style=for-the-badge&logo=xcode&logoColor=white" />
 
@@ -47,10 +47,10 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dcherish)](https://solved.ac/dcherish)  
 <a href="https://github.com/DCherish/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DCherish&count_private=true&show_icons=true&theme=gotham" width=54.0% />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DCherish&count_private=true&show_icons=true&theme=gotham&hide_border=true" width=54.0% />
 </a>
 <a href="https://github.com/DCherish/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCherish&hide=c%23,cmake,c&layout=compact&theme=gotham" width=45.0% />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCherish&hide=c%23,cmake,c&layout=compact&theme=gotham&hide_border=true" width=45.0% />
 </a>
 
 <br>
