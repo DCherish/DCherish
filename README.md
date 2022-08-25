@@ -38,9 +38,6 @@
 <br>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dcherish)](https://solved.ac/dcherish)
-<a href="https://github.com/DCherish/github-stats-transparent">
-<img src="https://raw.githubusercontent.com/DCherish/github-stats-transparent/output/generated/languages.svg" height=80.0% width=49.2% />
-</a>
 
 <br>
 <br>
