@@ -29,17 +29,18 @@
 <br>
 <img src="https://img.shields.io/badge/unity3d-FFFFFF?&style=for-the-badge&logo=unity&logoColor=black" />
 <img src="https://img.shields.io/badge/c%23-239120?&style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/sketchup-005F9E?&style=for-the-badge&logo=sketchup&logoColor=white" />
+<img src="https://img.shields.io/badge/sketchup-005F9E?&style=for-the-badge&logo=sketchup&logoColor=white" />  
 
 <br>
 <br>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dcherish)](https://solved.ac/dcherish)  
-<a href="https://github.com/DCherish/github-stats">
- <img src="https://raw.githubusercontent.com/DCherish/github-stats/output/generated/languages.svg" width=49.2% />
-</a>
-<a href="https://github.com/DCherish/github-stats">
- <img src="https://raw.githubusercontent.com/DCherish/github-stats/output/generated/languages.svg" width=49.2% />
+<br>
+<a href="https://github.com/DCherish/github-stats-transparent">
+
+<img src="https://raw.githubusercontent.com/DCherish/github-stats-transparent/output/generated/overview.svg" width=49.2% />
+<img src="https://raw.githubusercontent.com/DCherish/github-stats-transparent/output/generated/languages.svg" width=49.2% />
+
 </a>
 
 <br>
