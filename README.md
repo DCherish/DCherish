@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/jupyter%20notebook-F37626?&style=for-the-badge&logo=jupyter&logoColor=white" /> 
 <br>
 <img src="https://img.shields.io/badge/unity3d-FFFFFF?&style=for-the-badge&logo=unity&logoColor=black" /> 
-<img src="https://img.shields.io/badge/c%23-239120?&style=for-the-badge&logo=c%23&logoColor=white" />
+<img src="https://img.shields.io/badge/c%23-239120?&style=for-the-badge&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/sketchup-005F9E?&style=for-the-badge&logo=sketchup&logoColor=white" />
 
 </div>
