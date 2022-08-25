@@ -44,13 +44,9 @@
 
 </div>
 
-<h3 align="center">
+<h4 align="center">
 
 Not a Talent ❎ Not Giving Up ✅  
-
-<br>
-<br>
-
 Just Keep Going 🤙
 
-</h3>
+</h4>
