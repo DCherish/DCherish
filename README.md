@@ -46,7 +46,12 @@
 <br>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dcherish)](https://solved.ac/dcherish)  
-[![DCherish's GitHub stats](https://github-readme-stats.vercel.app/api?username=DCherish&count_private=true&show_icons=true&theme=gotham)](https://github.com/DCherish/github-readme-stats)
+<a href="https://github.com/DCherish/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DCherish&count_private=true&show_icons=true&theme=gotham" />
+</a>
+<a href="https://github.com/DCherish/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCherish&layout=compact" />
+</a>
 
 <br>
 <br>
