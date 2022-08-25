@@ -6,14 +6,17 @@
 
 </div>
 
-<h4 align="center">
+<br>
+
+<h3 align="center">
 
 언제나 기본에 충실하게 공부하며, 실력있는 iOS Developer가 되기 위해 노력하고 있습니다.  
 
-</h4>
+</h3>
 
-<div align="center">
+<h4 align="center">
 
 Not a Talent ❎ Not Giving UP ✅  
+Just Keep Going 🤙  
 
-</div>
+</h4>
