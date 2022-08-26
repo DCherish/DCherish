@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=1&height=270&text=DCherish&fontAlignY=81&fontSize=70&desc=iOS%20Developer&descSize=25&descAlignY=96&animation=twinkling)
 
-<!-- If you want to copy my code or fork this markdown, Plz Give a ⭐️ for me 😀  -->
+<!-- If you want to copy my code, Plz Give a ⭐️ for me 😀. That's All :) -->
+<!-- If you want to fork this markdown, Just give me a ⭐️. Is it Simple, Right? -->
 
 <div align="center">
 
@@ -45,6 +46,9 @@
 <br>
 <br>
 
+<!-- If you want to copy my code, Plz Give a ⭐️ for me 😀. That's All :) -->
+<!-- If you want to fork this markdown, Just give me a ⭐️. Is it Simple, Right? -->
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dcherish)](https://solved.ac/dcherish)  
 
 <a href="https://github.com/DCherish/github-readme-stats">
@@ -59,6 +63,9 @@
 <br>
 
 </div>
+
+<!-- If you want to copy my code, Plz Give a ⭐️ for me 😀. That's All :) -->
+<!-- If you want to fork this markdown, Just give me a ⭐️. Is it Simple, Right? -->
 
 <h3 align="center">
 
