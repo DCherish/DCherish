@@ -79,7 +79,7 @@ Just Keep Going 🤙
 <h6 align="center">
 
 *recommend, watch my profile in DarkMode*  
-*would be Much better than LightMode*  
+*would be Much better than LightMode*
 
 </h6>
 
