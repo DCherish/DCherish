@@ -82,3 +82,6 @@ Just Keep Going 🤙
 *would be* ***Much*** *better than lightMode*  
 
 </h5>
+
+<!-- If you want to copy my code, Plz Give a ⭐️ for me 😀. That's All :) -->
+<!-- If you want to fork this markdown, Just give me a ⭐️. Is it Simple, Right? -->
