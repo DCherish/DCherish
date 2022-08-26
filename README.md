@@ -68,20 +68,6 @@
 <!-- If you want to fork this markdown, Just give me a ⭐️. Is it Simple, Right? -->
 
 <h3 align="center">
-
 Not a Talent ❎ Not Giving Up ✅  
-Just Keep Going 🤙  
-
+Just Keep Going 🤙
 </h3>
-
-<br>
-
-<h6 align="center">
-
-*recommend, watch my profile in DarkMode*  
-*would be Much better than LightMode*
-
-</h6>
-
-<!-- If you want to copy my code, Plz Give a ⭐️ for me 😀. That's All :) -->
-<!-- If you want to fork this markdown, Just give me a ⭐️. Is it Simple, Right? -->
