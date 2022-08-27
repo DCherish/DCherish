@@ -1,6 +1,11 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=1&height=270&text=DCherish&fontAlignY=81&fontSize=70&desc=iOS%20Developer&descSize=25&descAlignY=96&animation=twinkling#gh-dark-mode-only) -->
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=1&height=270&text=DCherish&fontAlignY=81&fontSize=70&desc=iOS%20Developer&descSize=25&descAlignY=96&animation=twinkling#gh-dark-mode-only" />
+<p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=1&height=270&text=DCherish&fontAlignY=81&fontSize=70&desc=iOS%20Developer&descSize=25&descAlignY=96&animation=twinkling">
+      <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=28&height=270&text=DCherish&fontAlignY=81&fontSize=70&desc=iOS%20Developer&descSize=25&descAlignY=96&animation=twinkling">
+    </picture>
+</p>
 
 <!-- If you want to copy my code, Plz Give a ⭐️ for me 😀. That's All :) -->
 <!-- If you want to fork this markdown, Just give me a ⭐️. Is it Simple, Right? -->
