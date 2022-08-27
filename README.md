@@ -18,7 +18,7 @@
 <!-- If you want to copy my code, Plz Give a ⭐️ for me 😀. That's All :) -->
 <!-- If you want to fork this markdown, Just give me a ⭐️. Is it Simple, Right? -->
 
-<img src="https://img.shields.io/badge/iOS-484848?&style=for-the-badge&logo=ios&logoColor=white" />
+<img src="https://img.shields.io/badge/iOS-999999?&style=for-the-badge&logo=ios&logoColor=white" />
 <img src="https://img.shields.io/badge/swift-F05138?&style=for-the-badge&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/xcode-147EFB?&style=for-the-badge&logo=xcode&logoColor=white" />
 
