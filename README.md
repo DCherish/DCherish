@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=1&height=270&text=DCherish&fontAlignY=81&fontSize=70&desc=iOS%20Developer&descSize=25&descAlignY=96&animation=twinkling#gh-dark-mode-only)
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=26&height=270&text=DCherish&fontAlignY=81&fontSize=70&desc=iOS%20Developer&descSize=25&descAlignY=96&animation=twinkling#gh-light-mode-only)
+<!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=1&height=270&text=DCherish&fontAlignY=81&fontSize=70&desc=iOS%20Developer&descSize=25&descAlignY=96&animation=twinkling#gh-dark-mode-only) -->
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=1&height=270&text=DCherish&fontAlignY=81&fontSize=70&desc=iOS%20Developer&descSize=25&descAlignY=96&animation=twinkling#gh-dark-mode-only" />
 
 <!-- If you want to copy my code, Plz Give a ⭐️ for me 😀. That's All :) -->
 <!-- If you want to fork this markdown, Just give me a ⭐️. Is it Simple, Right? -->
