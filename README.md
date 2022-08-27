@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/android%20studio-3DDC84?&style=for-the-badge&logo=android%20studio&logoColor=white" />
 <img src="https://img.shields.io/badge/java-007396?&style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/intellij%20idea-000000?&style=for-the-badge&logo=intellij%20idea&logoColor=white" />
+<img src="https://img.shields.io/badge/intellij%20idea-505050?&style=for-the-badge&logo=intellij%20idea&logoColor=white" />
 
 <br>
 
