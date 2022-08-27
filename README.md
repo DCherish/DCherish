@@ -44,7 +44,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/unity3d-FFFFFF?&style=for-the-badge&logo=unity&logoColor=black" />
+<img src="https://img.shields.io/badge/unity3d-E0E1E2?&style=for-the-badge&logo=unity&logoColor=black" />
 <img src="https://img.shields.io/badge/c%23-239120?&style=for-the-badge&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/sketchup-005F9E?&style=for-the-badge&logo=sketchup&logoColor=white" />  
 
