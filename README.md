@@ -1,6 +1,6 @@
 <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=slice&color=0:f19c8c,30:edd398,60:c8faf0,100:82e6ff&height=270">
+      <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=slice&color=auto&height=270">
       <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=slice&color=auto&height=270">
       <img alt="Change headerView depending on mode" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=4&height=270&text=DCherish&fontAlignY=81&fontSize=70&desc=iOS%20Developer&descSize=25&descAlignY=96&fontColor=000000&animation=twinkling">
     </picture>
