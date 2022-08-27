@@ -1,7 +1,7 @@
 <p align="center">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=4&height=270&text=DCherish&fontAlignY=81&fontSize=70&desc=iOS%20Developer&descSize=25&descAlignY=96&fontColor=000000&animation=twinkling">
-      <img alt="Change headerView depending on mode" src="https://capsule-render.vercel.app/api?type=slice&color=0:E29B85,30:E5CD8B,60:9ED8AC,100:86DFF9&height=270&text=DCherish&fontAlignY=81&fontSize=70&desc=iOS%20Developer&descSize=25&descAlignY=96&fontColor=D6D6D6&animation=twinkling">
+      <img alt="Change headerView depending on mode" src="https://capsule-render.vercel.app/api?type=slice&color=0:E29B85,30:E5CD8B,60:9ED8AC,100:86DFF9&height=270&text=DCherish&fontAlignY=81&fontSize=70&desc=iOS%20Developer&descSize=25&descAlignY=96&fontColor=E6ECF4&animation=twinkling">
     </picture>
 </p>
 
