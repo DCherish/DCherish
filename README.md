@@ -60,7 +60,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dcherish)](https://solved.ac/dcherish)  
 
 <a href="https://github.com/DCherish/github-readme-stats-sigma-five">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DCherish&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=42,99C38A,65AEC7,67A596&line_height=31&text_color=FFFFFF&border_radius=50" width=45% />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DCherish&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=42,99C38A,65AEC7,67A596&line_height=31&text_color=FFFFFF" width=45% />
 </a>
 
 <br>
