@@ -57,8 +57,11 @@
 <!-- If you want to copy my code, Plz Give a ⭐️ for me 😀. That's All :) -->
 <!-- If you want to fork this markdown, Just give me a ⭐️. Is it Simple, Right? -->
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dcherish)](https://solved.ac/dcherish)  
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dcherish)](https://solved.ac/dcherish)   -->
 
+<a href="https://solved.ac/dcherish">
+  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dcherish" width=49.5% />
+</a>
 <a href="https://github.com/DCherish/github-readme-stats-sigma-five">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DCherish&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=42,99C38A,65AEC7,67A596&line_height=31&text_color=FFFFFF&border_radius=15" width=49.5% />
 </a>
