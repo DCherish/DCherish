@@ -63,7 +63,7 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DCherish&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=42,99C38A,65AEC7,67A596&line_height=31&text_color=FFFFFF&border_radius=10" width=49.5% />
 </a>
 <a href="https://github.com/DCherish/github-readme-stats-sigma-five">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DCherish&count_private=true&hide=c%2B%2B,c%23,cmake,c&layout=compact&theme=dark&hide_border=true&bg_color=42,99C38A,65AEC7,67A596&text_color=FFFFFF&border_radius=10" width=49.5% />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DCherish&count_private=true&hide=c%2B%2B,java,c%23,cmake,c&layout=compact&theme=dark&hide_border=true&bg_color=42,99C38A,65AEC7,67A596&text_color=FFFFFF&border_radius=10" width=49.5% />
 </a>
 
 <br>
