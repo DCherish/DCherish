@@ -59,11 +59,11 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dcherish)](https://solved.ac/dcherish)  
 
-<a href="https://github.com/DCherish/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DCherish&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=42,99C38A,65AEC7,67A596&line_height=31&text_color=FFFFFF&border_radius=10" width=49.5% />
+<a href="https://github.com/DCherish/github-readme-stats-sigma-five">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DCherish&show_icons=true&theme=dark&hide_border=true&bg_color=42,99C38A,65AEC7,67A596&line_height=31&text_color=FFFFFF&border_radius=10" width=49.5% />
 </a>
-<a href="https://github.com/DCherish/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCherish&hide=c%23,cmake,c&layout=compact&theme=dark&hide_border=true&bg_color=42,99C38A,65AEC7,67A596&text_color=FFFFFF&border_radius=10" width=49.5% />
+<a href="https://github.com/DCherish/github-readme-stats-sigma-five">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DCherish&hide=c%23,cmake,c&layout=compact&theme=dark&hide_border=true&bg_color=42,99C38A,65AEC7,67A596&text_color=FFFFFF&border_radius=10" width=49.5% />
 </a>
 
 <br>
